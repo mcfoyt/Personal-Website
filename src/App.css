@@ -48,7 +48,7 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif !important;
 }
 
 /*************************************NAVBAR STYLES***********************************************/
@@ -125,7 +125,6 @@ nav ul li {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: "Open Sans", sans-serif;
   z-index: 1;
 }
 
@@ -176,5 +175,22 @@ nav ul li {
 @media (max-width: 768px) {
   .particles-canvas {
     display: none;
+  }
+}
+
+/******* ABOUT ME *******/
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutme-heading {
+  color: var(--primary--orange);
+}
+
+@media (max-width: 468px) {
+  .profile-img {
+    width: 20rem;
   }
 }
