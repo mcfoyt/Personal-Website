@@ -11,7 +11,7 @@ const SkillSet = () => {
             </h1>
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-3 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                                 <div className="circle">
                                     <FontAwesomeIcon className="icon-pic" icon={faDesktop} size="2x"/>
@@ -20,7 +20,7 @@ const SkillSet = () => {
                                 <p>I approach each project with focus and a great result or your money back.</p>
                             </div>
                         </div>
-                        <div className="col-md-3 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                                 <div className="circle">
                                     <FontAwesomeIcon className="icon-pic" icon={faFileCode} size="2x"/>
@@ -29,7 +29,7 @@ const SkillSet = () => {
                                 <p>I approach each project with focus and a great result or your money back.</p>
                             </div>
                         </div>
-                        <div className="col-md-3 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                                 <div className="circle">
                                     <FontAwesomeIcon className="icon-pic" icon={faFileCode} size="2x"/>
@@ -38,7 +38,7 @@ const SkillSet = () => {
                                 <p>I approach each project with focus and a great result or your money back.</p>
                             </div>
                         </div>
-                        <div className="col-md-3 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                                 <div className="circle">
                                     <FontAwesomeIcon className="icon-pic" icon={faFacebookF} size="2x"/>
