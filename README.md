@@ -1,3 +1,8 @@
+Built this to quickly improve upon an old resume website. Its not finished yet, but I believe you see the direction im going
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
